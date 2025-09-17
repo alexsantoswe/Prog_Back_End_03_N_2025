@@ -3,12 +3,18 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Programação Back-End - PHP</title>
+    <title>PG1</title>
 </head>
 <body>
-    <h1>Testando php 26/08/25</h1>
+    <h1>
+        PG1 PHP
+    </h1>
+
     <?php
-    echo "Comando pelo php novo";
+        echo"Olá, Mundo!!!"; 
+        // phpinfo();
     ?>
+
+    <a href="index.php">index</a>
 </body>
 </html>
